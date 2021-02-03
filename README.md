@@ -18,3 +18,4 @@ this is horizontal line
 - milk
 - how to open hyper links [apssdc](https://www.apssdc.in)
 - [ciet college](https://www.chalapathiengg.ac.in/)
+-![image](https://www.google.com/search?q=inspirational+quotes+in+english&sxsrf=ALeKk01beHmOf6TZvpF5UTH7DUWe36-svA:1612342382840&tbm=isch&source=iu&ictx=1&fir=MvVkCyGMBu1wnM%252Cp1qOOQi3UOtwPM%252C_&vet=1&usg=AI4_-kQrAn5kCvsMWbZ3cYOHpuDFXx9zHA&sa=X&ved=2ahUKEwjN1fC3q83uAhW7IbcAHdCoCLoQ9QF6BAgZEAE#imgrc=MvVkCyGMBu1wnM)
